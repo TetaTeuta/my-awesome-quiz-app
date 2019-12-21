@@ -1,8 +1,21 @@
+.container{
+    margin: auto;
+}
+
 .mat-card{
+    max-width: 30rem;
+    max-height: 50rem;
 background:lightgray;
 text-align: center;
+margin: auto;
+padding: 2rem;
 }
 
 a{
     margin: 1rem;
+}
+
+img{
+  box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253); 
+  border-radius: 4%;
 }
